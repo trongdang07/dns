@@ -81,7 +81,7 @@
 - Phù Hợp Cho Ae tuỳ Chỉnh Nhé 
 </string>
 	<key>PayloadDisplayName</key>
-	<string>DNS Chặn Thu Hồi haidangvippro</string>
+	<string>DNS Chặn Thu Hồi Chứng Chỉ (haidangvippro)</string>
 	<key>PayloadIdentifier</key>
 	<string>com.khoindvn.apple-dns.9cb3031c-a76f-4cc3-a919-d3187093eb9b</string>
 	<key>PayloadRemovalDisallowed</key>
